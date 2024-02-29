@@ -7,8 +7,6 @@
 
 <p align="center">
   <em>
-    Passionate full-stack developer with solid experience in building scalable web applications. 
-    Specialized in front-end technologies such as Vue, React, and Angular, as well as having experience in back-end frameworks like Laravel and CodeIgniter. 
-    Committed to constant updating and continuous learning to optimize project efficiency and deliver exceptional user experiences.
+I am a Full Stack Developer with over 2 years of experience, known for my adaptability and passion for creating web applications. I have skills in a variety of technologies, including HTML, CSS, JavaScript, TypeScript, Bootstrap 4|5, Vue 2|3, Angular 14+, React, PHP 7+, Laravel 7|8|9|10, Codeigniter 3|4, and databases such as MySQL and SQL Server. I particularly enjoy crafting robust user experiences and am committed to continuous learning to stay updated in the ever-evolving field of web development. My goal is to be part of a team where I can apply my knowledge and skills to contribute to project success.
   </em> 
 </p>
