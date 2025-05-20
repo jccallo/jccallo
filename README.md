@@ -19,7 +19,7 @@ I am a Full Stack Developer with over 3 years of experience, known for my adapta
 
 <ul align="center" style="list-style-type:none;">
 <li>
-  <b><a href="https://github.com/jccallo/heroes-app" target="_blank">Heroes App</a></b> – A React app that lets users search superheroes via SuperheroAPI, view detailed info, and save favorites for easy access. Clean and responsive design for great user experience.
+  <b><a href="https://react-devapp.netlify.app/heroes-app/heroes/search" target="_blank">Heroes App</a></b> – A React app that lets users search superheroes via SuperheroAPI, view detailed info, and save favorites for easy access. Clean and responsive design for great user experience.
 </li>
 
 
