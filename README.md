@@ -1,7 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Jorge Ccallo</h1>
 <h3 align="center">Full Stack Developer</h3>
 <p align="center">
-<a href = "mailto: jccallo@outlook.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+<a href = "mailto: jccallo@outlook.com">
+  <img src="https://raw.githubusercontent.com/jccallo/jccallo/main/assets/gmail-icon.png" height="30" width="40" />
 </p>
 </p>
 
