@@ -12,7 +12,7 @@ I am a Full Stack Developer with over 3 years of experience, known for my adapta
   </em> 
 </p>
 
-<h2 align="center">Projects</h2>
+<h3 align="center">My Projects</h3>
 <p align="center">
   Here are some of the projects I have worked on:
 </p>
