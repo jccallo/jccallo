@@ -7,6 +7,6 @@
 
 <p align="center">
   <em>
-I am a Full Stack Developer with over 2 years of experience, known for my adaptability and passion for creating web applications. I have skills in a variety of technologies, including HTML, CSS, JavaScript, TypeScript, Bootstrap 4|5, Vue 2|3, Angular 14+, React, PHP 7+, Laravel 7|8|9|10, Codeigniter 3|4, and databases such as MySQL and SQL Server. I particularly enjoy crafting robust user experiences and am committed to continuous learning to stay updated in the ever-evolving field of web development. My goal is to be part of a team where I can apply my knowledge and skills to contribute to project success.
+I am a Full Stack Developer with over 3 years of experience, known for my adaptability and passion for building web applications. I have expertise in a wide range of technologies, including HTML, CSS, JavaScript, TypeScript, Bootstrap 4|5, Vue 2|3, Angular 14+, and React on the frontend. On the backend, I work with PHP 7+ using frameworks such as Laravel 7|8|9|10 and CodeIgniter 3|4, as well as Node.js with NestJS. I am also experienced in working with relational and non-relational databases like MySQL, SQL Server, and MongoDB. I particularly enjoy crafting robust and user-friendly experiences, and I’m committed to continuous learning to stay current in the ever-evolving world of web development. My goal is to contribute to a team where I can apply my knowledge and skills to deliver successful, high-impact projects.
   </em> 
 </p>
